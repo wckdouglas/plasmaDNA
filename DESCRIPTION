@@ -1,0 +1,10 @@
+Package: plasmaDNA
+Type: Package
+Title: A pacakge for analyzing plasma DNA from TGIRT prep
+Version: 0.1
+Date: 2015-11-26
+Author: Douglas Wu
+Maintainer: Douglas Wu <wckdouglas@gmail.com>
+Description: Some function for extracting information from filename 
+License: GPL-2
+LazyData: TRUE
